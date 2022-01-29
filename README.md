@@ -5,7 +5,7 @@
 <kbd>
 <a href="https://github.com/su-shubham/github-readme-stats"><img alt="Shubham  Typing" src="https://readme-typing-svg.herokuapp.com?color=%2316FF18&duration=5094&multiline=true&width=500&height=77&lines=shubham%40Helloworld%3A%24+echo+%22++Hello+Everyone%22;shubham%40Helloworld%3A%24+Hello+Everyone" /></a></kbd>
     <br><br>
-     <a href="https://github.com/su-shubham/github-readme-stats"><img alt="Shubham  Typing" src="https://readme-typing-svg.herokuapp.com?color=%235EB3FF&duration=5094&lines=I%E2%80%99m+Passionate+Tech+learner;Ubuntu+Enthusiast" /></a>
+     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/su-shubham/github-readme-stats"><img alt="Shubham  Typing" src="https://readme-typing-svg.herokuapp.com?color=%235EB3FF&duration=5094&lines=I%E2%80%99m+Passionate+Tech+learner;Ubuntu+Enthusiast" /></a>
  <br/>
 </p>
  
