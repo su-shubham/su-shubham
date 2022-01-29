@@ -1,13 +1,16 @@
-
-![Business Continuity   Recovery Services (1)](https://user-images.githubusercontent.com/75021117/150578411-506622d4-b253-4616-802d-c0969349f6b2.gif)
-
-
-<a href="https://github.com/shubham8268/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=su-shubham">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham</h1></a>
 
-<h3 align="center">I’m Passionate Tech learner.</h3>
-
+<p align="center">
+  <br/>
+<kbd>
+<a href="https://github.com/su-shubham/github-readme-stats"><img alt="Shubham  Typing" src="https://readme-typing-svg.herokuapp.com?color=%2316FF18&duration=5094&multiline=true&width=500&height=77&lines=shubham%40Helloworld%3A%24+echo+%22++Hello+Everyone%22;shubham%40Helloworld%3A%24+Hello+Everyone" /></a></kbd>
+    <br><br>
+     <a href="https://github.com/su-shubham/github-readme-stats"><img alt="Shubham  Typing" src="https://readme-typing-svg.herokuapp.com?color=%235EB3FF&duration=5094&lines=I%E2%80%99m+Passionate+Tech+learner;Ubuntu+Enthusiast" /></a>
+ <br/>
+</p>
+ 
+<a href="https://github.com/shubham8268/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=su-shubham"></a>
 
 ## 🙋‍♂️ About Me
 
@@ -29,29 +32,23 @@
     <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/ubuntu.png"/></a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
 
 ## 📊 My Github Stats
 
 <p align="center">
   <br/>
-    <a href="https://github.com/su-shubham/github-readme-stats"><img alt="Shubham  Github Stats" src="https://github-readme-stats.vercel.app/api?username=su-shubham&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/su-shubham/github-readme-stats"><img alt="Shubham Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=su-shubham&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+    <a href="https://github.com/su-shubham/github-readme-stats"><img alt="Shubham  Github Stats" src="https://github-readme-stats.vercel.app/api?username=su-shubham&show_icons=true&theme=chartreuse-dark&hide_border=true" /></a>
+  <br/><br>
+     <a href="https://github.com/su-shubham/github-readme-stats"><img alt="Shubham Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=su-shubham&layout=compact&theme=chartreuse-dark&hide_border=true" /></a>
 </p>
 <p align="center">
     <a href="https://github.com/su-shubham/github-readme-streak-stats">
-        <img alt="shubham streak" src="http://github-readme-streak-stats.herokuapp.com?user=su-shubham&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+        <img alt="shubham streak" src="http://github-readme-streak-stats.herokuapp.com?user=su-shubham&theme=chartreuse-dark&hide_border=true"/>
     </a>
 </p>
-
-
 <br/>
 <br/>
-
-<a href="https://github.com/su-shubham/github-readme-activity-graph"><img alt="Shubham Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=su-shubham&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<a href="https://github.com/su-shubham/github-readme-activity-graph"><img alt="Shubham Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=su-shubham&bg_color=0D1117&color=5BCDEC&line=7CFC00&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 
@@ -60,6 +57,7 @@
 
 ## See My contribution graph 
 
+ 
 ![snake](https://user-images.githubusercontent.com/75021117/151509333-084ee73f-9aae-45fd-a5fe-e50a55f8bd44.svg)
 
 
