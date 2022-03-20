@@ -19,7 +19,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **dev.shubham.net@gmail.com**
 
 
 ## Languages and Tools  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> :
@@ -67,10 +66,17 @@
 
 
 
-## See My contribution graph 
+## Contribution graph 
 
  
 ![snake](https://user-images.githubusercontent.com/75021117/151509333-084ee73f-9aae-45fd-a5fe-e50a55f8bd44.svg)
+
+ <h2 align="center">📫 Reach out to me on</h2>
+  <p align="center">
+    <a target="_blank"href="https://www.linkedin.com/in/shubham-prajapati-4124b7208/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="#"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:dev.shubham.net@gmail.com?subject=Hey%20Shubham,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 <div align="center">
