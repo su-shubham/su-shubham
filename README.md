@@ -62,8 +62,8 @@
 
 ## Contribution graph 
 
- 
-![snake](https://user-images.githubusercontent.com/75021117/151509333-084ee73f-9aae-45fd-a5fe-e50a55f8bd44.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/su-shubham/su-shubham/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/su-shubham/su-shubham/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 
 
