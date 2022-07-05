@@ -28,34 +28,6 @@
 </p>
 
 
-## 📊 Github Stats:
-
-<!--<p align="center">
-  <br/>
-    <a href="https://github.com/su-shubham/github-readme-stats"><img alt="Shubham  Github Stats" src="https://github-readme-stats.vercel.app/api?username=su-shubham&show_icons=true&theme=chartreuse-dark&hide_border=true" /></a>
-  <br/><br>
-     <a href="https://github.com/su-shubham/github-readme-stats"><img alt="Shubham Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=su-shubham&layout=compact&theme=chartreuse-dark&hide_border=true" /></a>
-</p>
--->
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=su-shubham&hide=stars&show_icons=true&line_height=48&theme=chartreuse-dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su-shubham&count_private=true&line_height=40&theme=chartreuse-dark">
-
-</p>
-
-<p align="center">
-    <a href="https://github.com/su-shubham/github-readme-streak-stats">
-        <img alt="shubham streak" src="http://github-readme-streak-stats.herokuapp.com?user=su-shubham&theme=chartreuse-dark&hide_border=true"/>
-    </a>
-</p>
-<br/>
-<br/>
-
-
-<a href="https://github.com/su-shubham/github-readme-activity-graph"><img alt="Shubham Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=su-shubham&bg_color=0D1117&color=5BCDEC&line=7CFC00&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
 
 
 
