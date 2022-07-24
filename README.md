@@ -15,19 +15,6 @@
 </p>
 
 
-## Languages and Tools  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "40"> :
-
-<p align="left"> 
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> </a> 
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/> </a> 
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/ubuntu.png"/></a>
-</p>
-
-
 
 
 
